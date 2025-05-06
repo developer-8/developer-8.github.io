@@ -1,6 +1,6 @@
 # Factorio Calculator
 
-This is the repostory for the [Factorio Calculator](https://kirkmcdonald.github.io/calc.html), a tool for calculating resource requirements and production ratios in the game [Factorio](https://factorio.com/).
+This is the repostory for the [Factorio Calculator](https://developer-8.github.io/calc.html), a tool for calculating resource requirements and production ratios in the game [Factorio](https://factorio.com/).
 
 ## Running locally
 
