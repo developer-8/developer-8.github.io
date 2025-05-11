@@ -6624,7 +6624,7 @@
     }, {
         "allow_productivity": false,
         "category": "crafting",
-        "energy_required": 3,
+        "energy_required": 6,
         "icon_col": 10,
         "icon_row": 10,
         "ingredients": [ {
